@@ -1,0 +1,20 @@
+# Python Virtual Environment (The most important one!)
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Machine Learning Models & Data (Keep these out of GitHub)
+*.pkl
+Travel.csv
+
+# IDE specific files
+.vscode/
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db
